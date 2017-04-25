@@ -1,0 +1,19 @@
+twits:
+    -
+        author:
+            avatar: bartomeumiro.jpg
+            alias: bartomeumiro
+            name: Bartomeu Miró
+
+        twit: Avui fa molta neu
+        photo:
+            src: lamy.jpg
+    -
+        author:
+            avatar: bartomeumiro.jpg
+            alias: bartomeumiro2
+            name: Bartomeu AKSDjlsjdlk
+
+        twit: hi mama
+        photo:
+            src: lamy.jpg
