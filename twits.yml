@@ -4,16 +4,46 @@ twits:
             avatar: bartomeumiro.jpg
             alias: bartomeumiro
             name: Bartomeu Miró
+        twit: 'Zi tic fatal...<img class="Emoji Emoji--forText" title="Cara sonriente con boca abierta y sudor frío" aria-label="Emoji: Cara sonriente con boca abierta y sudor frío" data-pictograph-text="😅" src="https://abs.twimg.com/emoji/v2/72x72/1f605.png" draggable="false"> </img>'
+        likes: -42
+    -
+        author:
+            avatar: joanacatany.jpg
+            alias: joanacatany
+            name: Joana Catany
+        twit: 'En serio xerres amb tu mateix a una versió impresa de twitter<img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f914.png" draggable="false" alt="🤔" title="Rostro pensativo" aria-label="Emoji: Rostro pensativo">?'
 
-        twit: Avui fa molta neu
-        photo:
-            src: lamy.jpg
     -
         author:
             avatar: bartomeumiro.jpg
-            alias: bartomeumiro2
-            name: Bartomeu AKSDjlsjdlk
-
-        twit: hi mama
+            alias: bartomeumiro
+            name: Bartomeu Miró
+        twit: Jo també!
+    -
+        author:
+            avatar: joanacatany.jpg
+            alias: joanacatany
+            name: Joana Catany
+        twit: "Ohh!! T'estim un munt<img class='Emoji Emoji--forText' src='https://abs.twimg.com/emoji/v2/72x72/1f60d.png' draggable='false' alt='😍' title='Cara sonriente con ojos en forma de corazón' aria-label='Emoji: Cara sonriente con ojos en forma de corazón'><img class='Emoji Emoji--forText' src='https://abs.twimg.com/emoji/v2/72x72/1f60d.png' draggable='false' alt='😍' title='Cara sonriente con ojos en forma de corazón' aria-label='Emoji: Cara sonriente con ojos en forma de corazón'>!"
+    -
+        author:
+            avatar: bartomeumiro.jpg
+            alias: bartomeumiro
+            name: Bartomeu Miró
+        twit: "Aquí el tens! El twit <img class='Emoji Emoji--forText' src='https://abs.twimg.com/emoji/v2/72x72/1f381.png' draggable='false' alt='🎁' title='Regalo envuelto' aria-label='Emoji: Regalo envuelto'> més matearizable que s'ha fet mai!"
         photo:
             src: lamy.jpg
+        likes: 69
+        retwits: 93
+    -
+        author:
+            avatar: joanacatany.jpg
+            alias: joanacatany
+            name: Joana Catany
+        twit: 'Oh! Gràcies! Però això és tot? Que no me fas cap regal xuetó meu<img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f60f.png" draggable="false" alt="😏" title="Cara burlona" aria-label="Emoji: Cara burlona">?'
+    -
+        author:
+            avatar: bartomeumiro.jpg
+            alias: bartomeumiro
+            name: Bartomeu Miró
+        twit: 'A na @joanacatany molts anys<img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f382.png" draggable="false" alt="🎂" title="Pastel de cumpleaños" aria-label="Emoji: Pastel de cumpleaños"><img class="Emoji Emoji--forText" src="https://abs.twimg.com/emoji/v2/72x72/1f389.png" draggable="false" alt="🎉" title="Cañón de serpentina" aria-label="Emoji: Cañón de serpentina">!!'
